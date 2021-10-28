@@ -126,7 +126,7 @@ public class JDialogo_Principal extends javax.swing.JDialog {
         });
         jPanel1.add(Btn_Agregar);
 
-        Btn_Editar.setText("Editar/Actualizar");
+        Btn_Editar.setText("Editar");
         Btn_Editar.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 Btn_EditarActionPerformed(evt);
@@ -174,7 +174,7 @@ public class JDialogo_Principal extends javax.swing.JDialog {
         });
         jPanel1.add(Btn_Cancelar);
 
-        jLabel1.setText("Apelliddos:");
+        jLabel1.setText("Apellidos:");
 
         jLabel2.setText("Nombres:");
 

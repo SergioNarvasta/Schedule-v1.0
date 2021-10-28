@@ -133,7 +133,7 @@
         </Component>
         <Component class="javax.swing.JButton" name="Btn_Editar">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Editar/Actualizar"/>
+            <Property name="text" type="java.lang.String" value="Editar"/>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Btn_EditarActionPerformed"/>
@@ -183,7 +183,7 @@
     </Container>
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
-        <Property name="text" type="java.lang.String" value="Apelliddos:"/>
+        <Property name="text" type="java.lang.String" value="Apellidos:"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="jLabel2">
